@@ -1,0 +1,6 @@
+{
+  "name": "Locally",
+  "description": "Hyperlocal Problem Solver for communities - Report and analyze local issues to keep our neighborhoods clean and safe.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
